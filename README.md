@@ -25,11 +25,13 @@
 
 ## Results
 
+All of these were calculated starting from the previous one.
+
 | Goal positions| Error in reaching the goal| Number of iterations to reaching the goal  |
 | ------------- |:-------------------------:| ------------------------------------------:|
-| (7, 4)        |                           |                                            |
-| (2, 9)        |                           |                                            |
-| (1,1)         |                           |                                            |
+| (7, 4)        |        0.23711            |              46                            |
+| (2, 9)        |        0.238446           |              81                            |
+| (1,1)         |        0.241254           |              80                            |
 
 
 
